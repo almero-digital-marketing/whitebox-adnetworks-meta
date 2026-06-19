@@ -1,6 +1,6 @@
 // Meta — server adapter (Conversions API). meta({ pixelId, accessToken }).
 
-import { pick } from 'whitebox-adnetworks'
+import { pick } from 'whitebox-pro-adnetworks'
 import { name, signals, eventName } from './spec.js'
 
 const GRAPH = 'https://graph.facebook.com/v19.0'

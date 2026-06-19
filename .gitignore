@@ -1,4 +1,4 @@
-# Dependencies (includes the locally-linked whitebox-adnetworks kernel symlink)
+# Dependencies (includes the locally-linked whitebox-pro-adnetworks kernel symlink)
 node_modules/
 
 # Secrets — never commit (credentials come from the host app's environment)

@@ -1,7 +1,7 @@
 // Meta — client pixel (window.fbq, loaded + init'd externally). meta().
 // Shares the eventID with the server CAPI hit for dedup.
 
-import { cookie, param, removeUndefined, toItems } from 'whitebox-adnetworks/browser'
+import { cookie, param, removeUndefined, toItems } from 'whitebox-pro-adnetworks/browser'
 import { name, events } from './spec.js'
 
 function map(p) {
